@@ -17,5 +17,5 @@
     "X-Amzn-Trace-Id": "Root=1-63eb80de-6470823a1d117ca208b0c258"
   }, 
   "origin": "49.228.250.57", 
-  "url": "https://httpbin.org/get"
+  "url": "https://raw.githubusercontent.com/J1NNYz/SynapFingerPrintX/main/GetX.lua"
 }
